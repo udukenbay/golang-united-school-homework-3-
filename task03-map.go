@@ -5,7 +5,7 @@ import (
 	"sort"
 )
 
-func main() {
+func main_map() {
 	a := map[int]string{2: "a", 0: "b", 1: "c"}
 	fmt.Println(sortMapValues(a))
 

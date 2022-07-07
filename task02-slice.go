@@ -2,7 +2,7 @@ package homework
 
 import "fmt"
 
-func main() {
+func main_slice() {
 	a := []int64{1, 2, 5, 15}
 	fmt.Println(reverse(a))
 }

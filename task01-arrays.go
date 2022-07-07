@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func main_arrays() {
 	a := [15]float32{1, 2, 3, 4, 5, 6}
 	fmt.Println(average(a))
 }
